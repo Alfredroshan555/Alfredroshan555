@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi there, I'm Alfred Roshan 👋
+# 💫 Alfred Roshan
 Senior Full-Stack Engineer with 5 years of experience building scalable web applications. Currently at Experion Technologies, specializing in React, Node.js, and TypeScript across the entire stack.
 🚀 What I do:
 
