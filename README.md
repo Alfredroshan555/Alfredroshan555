@@ -1,6 +1,15 @@
 # 💫 About Me:
-# Hi there, I'm Alfred Roshan 👋<br><br>## Senior Full-Stack Engineer | React · Node.js · TypeScript<br><br>I'm a passionate full-stack developer with **5 years of experience** building scalable, production-grade web applications. Currently working as a Senior Software Engineer at Experion Technologies, I specialize in crafting robust solutions across the entire stack.<br><br>### 🚀 What I Do<br><br>- **Frontend Excellence**: Building responsive, performant UIs with React, Next.js, Angular, and Vue.js<br>- **Backend Architecture**: Designing scalable APIs and services with Node.js, NestJS, and GraphQL<br>- **Full-Stack Solutions**: End-to-end development from database design to deployment<br>- **Mentorship**: Leading code reviews and helping junior engineers grow<br><br>### 💻 Tech Stack<br><br>**Frontend**: React · Next.js · Angular · Vue.js · TypeScript · Redux · Zustand  <br>**Backend**: Node.js · NestJS · RESTful APIs · GraphQL  <br>**Database**: MongoDB · SQL  <br>**Cloud & Tools**: AWS · Firebase · Azure · Git · CI/CD<br><br>### 🌱 Professional Journey<br><br>From freelancing and building client solutions to contributing at innovative companies like Reveation Labs, Repustar, Infoniz Technologies, and Orion Innovation, I've consistently delivered high-quality features in fast-paced, agile environments.<br><br>### 📫 Let's Connect<br><br>- 💼 [LinkedIn](https://linkedin.com/in/alfredroshan)<br>- 🌐 [Portfolio](https://alfred-roshan-portfolio.netlify.app)<br>- 📧 alfredroshan555@gmail.com<br>- 📍 Kochi, Kerala, India<br><br>---<br><br>*"Building scalable solutions, one commit at a time."*
+Hi there, I'm Alfred Roshan 👋
+Senior Full-Stack Engineer with 5 years of experience building scalable web applications. Currently at Experion Technologies, specializing in React, Node.js, and TypeScript across the entire stack.
+🚀 What I do:
 
+Build responsive UIs with React, Next.js, Angular, and Vue.js
+Design scalable APIs with Node.js, NestJS, and GraphQL
+Deliver end-to-end solutions from database to deployment
+Mentor junior engineers and lead code reviews
+
+💻 Tech: React · Next.js · Angular · Vue.js · TypeScript · Node.js · NestJS · MongoDB · AWS · Firebase
+📫 Connect: LinkedIn · Portfolio · Kochi, Kerala, India
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alfredroshan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfredroshan555@gmail.com) 
